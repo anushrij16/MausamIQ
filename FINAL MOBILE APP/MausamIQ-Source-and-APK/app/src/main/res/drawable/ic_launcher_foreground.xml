@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sun Ray / AI Sparkle -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,28 L57,38 L67,41 L57,44 L54,54 L51,44 L41,41 L51,38 Z" />
+    <!-- Stylized Cloud -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M68,54 C66.5,46 59.5,40 51,40 C44,40 38,44.5 35.5,51 C29.5,51.5 25,56.5 25,63 C25,70 30.5,75 37.5,75 L67.5,75 C73.5,75 78.5,70 78.5,64 C78.5,58.5 74,54.5 68,54 Z" />
+    <!-- AI Pulse Node -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,58m-4,0a4,4 0,1,1 8,0a4,4 0,1,1 -8,0" />
+</vector>

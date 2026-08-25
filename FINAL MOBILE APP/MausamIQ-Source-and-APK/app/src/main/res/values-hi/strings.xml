@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मौसमआईक्यू (MausamIQ)</string>
+    <string name="app_tagline">सिर्फ मौसम नहीं। वह मौसम जो आपके लिए मायने रखता है।</string>
+    <string name="team_name">टीम AETHERX</string>
+    <string name="sih_problem_statement">SIH26076</string>
+
+    <!-- Splash & Welcome -->
+    <string name="welcome_headline">मौसम जो आपको समझता है।</string>
+    <string name="welcome_subtitle">मौसम के पूर्वानुमान को ऐसे निर्णयों में बदलें जो आपके दिन और जीवन के लिए उपयोगी हों।</string>
+    <string name="btn_get_started">शुरू करें</string>
+    <string name="btn_sign_in">साइन इन करें</string>
+    <string name="btn_skip">छोड़ें</string>
+    <string name="btn_next">आगे बढ़ें</string>
+    <string name="btn_back">पीछे जाएं</string>
+    <string name="btn_finish">सेटअप पूरा करें</string>
+
+    <!-- Auth -->
+    <string name="auth_login_title">वापसी पर स्वागत है</string>
+    <string name="auth_login_subtitle">अपनी व्यक्तिगत मौसम बुद्धिमत्ता में साइन इन करें</string>
+    <string name="auth_register_title">खाता बनाएं</string>
+    <string name="auth_register_subtitle">अपनी व्यक्तिगत प्रोफ़ाइल सेट करें</string>
+    <string name="auth_forgot_title">पासवर्ड रीसेट करें</string>
+    <string name="auth_forgot_subtitle">अपना ईमेल दर्ज करें</string>
+    <string name="field_full_name">पूरा नाम</string>
+    <string name="field_email">ईमेल पता</string>
+    <string name="field_phone">फ़ोन नंबर (वैकल्पिक)</string>
+    <string name="field_password">पासवर्ड</string>
+    <string name="field_confirm_password">पासवर्ड की पुष्टि करें</string>
+    <string name="field_remember_me">मुझे याद रखें</string>
+    <string name="field_forgot_password">पासवर्ड भूल गए?</string>
+    <string name="field_terms">मैं नियमों और गोपनीयता नीति से सहमत हूँ</string>
+    <string name="btn_create_account">खाता बनाएं</string>
+    <string name="btn_send_reset_link">रीसेट लिंक भेजें</string>
+    <string name="auth_dont_have_account">खाता नहीं है? पंजीकरण करें</string>
+    <string name="auth_already_have_account">पहले से खाता है? साइन इन करें</string>
+    <string name="auth_guest_mode">डेमो मोड में जारी रखें</string>
+    <string name="pwd_strength_weak">कमजोर पासवर्ड</string>
+    <string name="pwd_strength_medium">मध्यम शक्ति</string>
+    <string name="pwd_strength_strong">मजबूत पासवर्ड</string>
+
+    <!-- Personas -->
+    <string name="persona_student">विद्यार्थी 🎓</string>
+    <string name="persona_student_desc">कॉलेज यात्रा, बारिश का समय और परिसर की गतिविधियों को प्राथमिकता देता है।</string>
+    <string name="persona_farmer">किसान 🌾</string>
+    <string name="persona_farmer_desc">वर्षा, मिट्टी की नमी, कीटनाशक छिड़काव हेतु हवा की गति और तूफानों को प्राथमिकता।</string>
+    <string name="persona_traveller">यात्री ✈️</string>
+    <string name="persona_traveller_desc">राजमार्ग दृश्यता, हवा और गंतव्य मौसम को प्राथमिकता।</string>
+    <string name="persona_fitness">फिटनेस 🏃</string>
+    <string name="persona_fitness_desc">दौड़ने/व्यायाम का सर्वोत्तम समय, वायु गुणवत्ता और गर्मी सूचकांक।</string>
+    <string name="persona_worker">आउटडोर कार्यकर्ता 🦺</string>
+    <string name="persona_worker_desc">अत्यधिक तापमान, यूवी इंडेक्स सुरक्षा और बिजली गिरने की चेतावनी।</string>
+    <string name="persona_general">सामान्य 🌤</string>
+    <string name="persona_general_desc">दैनिक जीवन की मौसम सलाह और छतरी अनुस्मारक।</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">डैशबोर्ड</string>
+    <string name="nav_forecast">पूर्वानुमान</string>
+    <string name="nav_insights">AI अंतर्दृष्टि</string>
+    <string name="nav_map">रडार मानचित्र</string>
+    <string name="nav_travel">स्मार्ट यात्रा</string>
+    <string name="nav_alerts">अलर्ट्स</string>
+    <string name="nav_profile">प्रोफ़ाइल</string>
+    <string name="nav_settings">सेटिंग्स</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_greeting_morning">सुप्रभात</string>
+    <string name="dashboard_greeting_afternoon">शुभ दोपहर</string>
+    <string name="dashboard_greeting_evening">शुभ संध्या</string>
+    <string name="dashboard_greeting_night">शुभ रात्रि</string>
+    <string name="dashboard_subheading">यहाँ वह है जो आज आपके लिए महत्वपूर्ण है।</string>
+    <string name="hero_feels_like">महसूस हो रहा है %1$s°C</string>
+    <string name="hero_humidity">आर्द्रता</string>
+    <string name="hero_wind">हवा</string>
+    <string name="hero_visibility">दृश्यता</string>
+    <string name="hero_uv">UV सूचकांक</string>
+    <string name="hero_pressure">दबाव</string>
+    <string name="hero_sunrise">सूर्योदय</string>
+    <string name="hero_sunset">सूर्यास्त</string>
+    <string name="important_for_you">आपके लिए महत्वपूर्ण</string>
+    <string name="ai_recommendation">AI सिफारिश</string>
+    <string name="cta_why_this_matters">मैं यह क्यों देख रहा हूँ? →</string>
+    <string name="commute_intelligence_title">यात्रा बुद्धिमत्ता</string>
+    <string name="commute_intelligence_desc">%1$s से %2$s के लिए %3$s बजे का विश्लेषण।</string>
+
+    <!-- Explainability -->
+    <string name="explain_modal_title">निर्णय कारक विवरण</string>
+    <string name="explain_modal_subtitle">MausamIQ ने इस सिफारिश की गणना कैसे की</string>
+    <string name="explain_factor_rain_prob">बारिश की संभावना</string>
+    <string name="explain_factor_window">संभावित समय</string>
+    <string name="explain_factor_commute">आपका समय सारणी</string>
+    <string name="explain_factor_dest">गंतव्य</string>
+    <string name="explain_factor_confidence">सिस्टम विश्वसनीयता</string>
+    <string name="explain_probability_note" formatted="false">नोट: 70% बारिश की संभावना का अर्थ है कि आपके क्षेत्र में बारिश होने की 70% सांख्यिकीय संभावना है।</string>
+
+    <!-- Forecast -->
+    <string name="tab_hourly">प्रति घंटा</string>
+    <string name="tab_daily">7-दिवसीय पूर्वानुमान</string>
+    <string name="forecast_precip_chance">वर्षा की संभावना</string>
+
+    <!-- Map -->
+    <string name="map_title">वायुमंडलीय रडार और परतें</string>
+    <string name="layer_temp">तापमान</string>
+    <string name="layer_rain">वर्षा रडार</string>
+    <string name="layer_wind">हवा का प्रवाह</string>
+    <string name="layer_alerts">गंभीर अलर्ट</string>
+
+    <!-- Smart Travel -->
+    <string name="travel_title">स्मार्ट रूट मौसम योजनाकार</string>
+    <string name="travel_from">प्रस्थान स्थान</string>
+    <string name="travel_to">गंतव्य</string>
+    <string name="travel_time">प्रस्थान का समय</string>
+    <string name="travel_calculate">मार्ग के मौसम का विश्लेषण करें</string>
+    <string name="travel_advisory">यात्रा सलाह</string>
+    <string name="travel_window_recommended">अनुशंसित समय</string>
+
+    <!-- Alerts -->
+    <string name="alerts_title">मौसम अलर्ट</string>
+    <string name="alert_severity_critical">गंभीर</string>
+    <string name="alert_severity_high">उच्च</string>
+    <string name="alert_severity_moderate">मध्यम</string>
+    <string name="alert_severity_info">सूचना</string>
+    <string name="alert_mark_read">पढ़ा हुआ चिह्नित करें</string>
+    <string name="alert_no_active">आपके क्षेत्र के लिए कोई गंभीर मौसम अलर्ट सक्रिय नहीं है।</string>
+
+    <!-- Settings -->
+    <string name="settings_title">सेटिंग्स</string>
+    <string name="settings_theme">थीम</string>
+    <string name="settings_language">भाषा / Language</string>
+    <string name="settings_notifications">सूचनाएं</string>
+    <string name="settings_demo_mode">SIH डेमो मोड</string>
+    <string name="settings_demo_mode_desc">लाइव मौसम और SIH प्रस्तुति परिदृश्यों के बीच स्विच करें।</string>
+    <string name="settings_about">ऐप के बारे में</string>
+    <string name="settings_logout">लॉग आउट</string>
+
+    <!-- Offline -->
+    <string name="offline_badge">ऑफ़लाइन मोड • अंतिम अपडेट %1$s</string>
+    <string name="error_network">मौसम सर्वर से कनेक्ट करने में असमर्थ। कैश्ड डेटा दिखाया जा रहा है।</string>
+    <string name="btn_retry">पुनः प्रयास करें</string>
+    <string name="demo_mode_active_banner">⚡ डेमो मोड सक्रिय है</string>
+</resources>
