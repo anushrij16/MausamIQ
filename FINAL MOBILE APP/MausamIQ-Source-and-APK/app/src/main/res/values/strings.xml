@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MausamIQ</string>
+    <string name="app_tagline">Not Just Weather. Weather That Matters to You.</string>
+    <string name="team_name">Team AETHERX</string>
+    <string name="sih_problem_statement">SIH26076</string>
+
+    <!-- Splash & Welcome -->
+    <string name="welcome_headline">Weather That Understands You.</string>
+    <string name="welcome_subtitle">Turn weather forecasts into decisions that matter to your daily life, work, and journey.</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_skip">Skip</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_finish">Complete Setup</string>
+
+    <!-- Auth -->
+    <string name="auth_login_title">Welcome Back</string>
+    <string name="auth_login_subtitle">Sign in to your personalized weather intelligence</string>
+    <string name="auth_register_title">Create Account</string>
+    <string name="auth_register_subtitle">Set up your tailored weather decision profile</string>
+    <string name="auth_forgot_title">Reset Password</string>
+    <string name="auth_forgot_subtitle">Enter your email to receive recovery instructions</string>
+    <string name="field_full_name">Full Name</string>
+    <string name="field_email">Email Address</string>
+    <string name="field_phone">Phone Number (Optional)</string>
+    <string name="field_password">Password</string>
+    <string name="field_confirm_password">Confirm Password</string>
+    <string name="field_remember_me">Remember Me</string>
+    <string name="field_forgot_password">Forgot Password?</string>
+    <string name="field_terms">I agree to Terms &amp; Privacy Policy</string>
+    <string name="btn_create_account">Create Account</string>
+    <string name="btn_send_reset_link">Send Reset Link</string>
+    <string name="auth_dont_have_account">Don\'t have an account? Register</string>
+    <string name="auth_already_have_account">Already have an account? Sign In</string>
+    <string name="auth_guest_mode">Continue in Demo Mode</string>
+    <string name="pwd_strength_weak">Weak Password</string>
+    <string name="pwd_strength_medium">Medium Strength</string>
+    <string name="pwd_strength_strong">Strong Password</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_step_1_title">Primary Location</string>
+    <string name="onboarding_step_1_desc">Select your home base to enable hyper-local intelligence.</string>
+    <string name="onboarding_step_2_title">Select Persona</string>
+    <string name="onboarding_step_2_desc">Tell us who you are so we prioritize the weather factors that impact you.</string>
+    <string name="onboarding_step_3_title">Your Interests</string>
+    <string name="onboarding_step_3_desc">Choose categories relevant to your lifestyle.</string>
+    <string name="onboarding_step_4_title">Daily Activities</string>
+    <string name="onboarding_step_4_desc">Which activities do you regularly engage in outdoors?</string>
+    <string name="onboarding_step_5_title">Commute &amp; Schedule</string>
+    <string name="onboarding_step_5_desc">Set your key travel times so we anticipate weather risks before you step out.</string>
+    <string name="onboarding_step_6_title">Saved Locations</string>
+    <string name="onboarding_step_6_desc">Add frequent places like College, Work, or Farm for route-based intelligence.</string>
+    <string name="onboarding_step_7_title">Language Preference</string>
+    <string name="onboarding_step_7_desc">Choose your preferred application language.</string>
+
+    <!-- Personas -->
+    <string name="persona_student">Student 🎓</string>
+    <string name="persona_student_desc">Prioritizes college commute, rain timing, heat alerts, and outdoor campus events.</string>
+    <string name="persona_farmer">Farmer 🌾</string>
+    <string name="persona_farmer_desc">Prioritizes rainfall windows, soil moisture, wind speed for spraying, and severe storms.</string>
+    <string name="persona_traveller">Traveller ✈️</string>
+    <string name="persona_traveller_desc">Prioritizes highway visibility, crosswinds, destination weather, and travel windows.</string>
+    <string name="persona_fitness">Fitness 🏃</string>
+    <string name="persona_fitness_desc">Prioritizes optimal running/cycling hours, air quality index, heat index, and hydration.</string>
+    <string name="persona_worker">Outdoor Worker 🦺</string>
+    <string name="persona_worker_desc">Prioritizes extreme temperature warnings, UV index safety, thunderstorm alerts, and shelter advice.</string>
+    <string name="persona_general">General 🌤</string>
+    <string name="persona_general_desc">Balanced everyday lifestyle forecasts, umbrella reminders, and weekend planning.</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_forecast">Forecast</string>
+    <string name="nav_insights">AI Insights</string>
+    <string name="nav_map">Radar Map</string>
+    <string name="nav_travel">Smart Travel</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_greeting_morning">Good Morning</string>
+    <string name="dashboard_greeting_afternoon">Good Afternoon</string>
+    <string name="dashboard_greeting_evening">Good Evening</string>
+    <string name="dashboard_greeting_night">Good Night</string>
+    <string name="dashboard_subheading">Here\'s what matters to you today.</string>
+    <string name="hero_feels_like">Feels like %1$s°C</string>
+    <string name="hero_humidity">Humidity</string>
+    <string name="hero_wind">Wind</string>
+    <string name="hero_visibility">Visibility</string>
+    <string name="hero_uv">UV Index</string>
+    <string name="hero_pressure">Pressure</string>
+    <string name="hero_sunrise">Sunrise</string>
+    <string name="hero_sunset">Sunset</string>
+    <string name="important_for_you">Important For You</string>
+    <string name="ai_recommendation">AI Recommendation</string>
+    <string name="cta_why_this_matters">Why am I seeing this? →</string>
+    <string name="commute_intelligence_title">Commute Intelligence</string>
+    <string name="commute_intelligence_desc">Analysis for your %1$s to %2$s route at %3$s.</string>
+
+    <!-- Explainability -->
+    <string name="explain_modal_title">Decision Factor Breakdown</string>
+    <string name="explain_modal_subtitle">How MausamIQ calculated this recommendation</string>
+    <string name="explain_factor_rain_prob">Rain Probability</string>
+    <string name="explain_factor_window">Expected Window</string>
+    <string name="explain_factor_commute">Your Schedule</string>
+    <string name="explain_factor_dest">Destination</string>
+    <string name="explain_factor_confidence">Engine Confidence</string>
+    <string name="explain_probability_note" formatted="false">Note: A 70% probability means there is a 70% statistical likelihood of precipitation in your area, not that 70% of the terrain will get wet.</string>
+
+    <!-- Forecast -->
+    <string name="tab_hourly">Hourly</string>
+    <string name="tab_daily">7-Day Forecast</string>
+    <string name="forecast_precip_chance">Precipitation Chance</string>
+
+    <!-- Map -->
+    <string name="map_title">Atmospheric Radar &amp; Layers</string>
+    <string name="layer_temp">Temperature</string>
+    <string name="layer_rain">Rain Radar</string>
+    <string name="layer_wind">Wind Stream</string>
+    <string name="layer_alerts">Severe Alerts</string>
+
+    <!-- Smart Travel -->
+    <string name="travel_title">Smart Route Weather Planner</string>
+    <string name="travel_from">Origin</string>
+    <string name="travel_to">Destination</string>
+    <string name="travel_time">Departure Time</string>
+    <string name="travel_calculate">Analyze Route Weather</string>
+    <string name="travel_advisory">Travel Advisory</string>
+    <string name="travel_window_recommended">Recommended Window</string>
+
+    <!-- Alerts -->
+    <string name="alerts_title">Smart Weather Alerts</string>
+    <string name="alert_severity_critical">CRITICAL</string>
+    <string name="alert_severity_high">HIGH</string>
+    <string name="alert_severity_moderate">MODERATE</string>
+    <string name="alert_severity_info">INFO</string>
+    <string name="alert_mark_read">Mark as Read</string>
+    <string name="alert_no_active">No active severe weather alerts for your area.</string>
+
+    <!-- Profile & Settings -->
+    <string name="profile_personality">Your Weather Personality</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_theme">Appearance Theme</string>
+    <string name="settings_language">Language / மொழி / भाषा</string>
+    <string name="settings_notifications">Push Notifications</string>
+    <string name="settings_demo_mode">SIH Demo Mode</string>
+    <string name="settings_demo_mode_desc">Switch between live Open-Meteo weather and curated SIH jury demo scenarios.</string>
+    <string name="settings_about">About MausamIQ</string>
+    <string name="settings_logout">Log Out</string>
+
+    <!-- Offline & Errors -->
+    <string name="offline_badge">Offline Mode • Last updated %1$s</string>
+    <string name="error_network">Unable to connect to weather server. Showing cached data.</string>
+    <string name="btn_retry">Retry</string>
+    <string name="demo_mode_active_banner">⚡ DEMO MODE ACTIVE (SIH Presentation Scenarios)</string>
+</resources>

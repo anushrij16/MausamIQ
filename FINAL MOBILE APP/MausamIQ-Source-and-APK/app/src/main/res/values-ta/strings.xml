@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">மௌசமிக் (MausamIQ)</string>
+    <string name="app_tagline">வெறும் வானிலை அல்ல. உங்களுக்கு முக்கியமான வானிலை தகவல்.</string>
+    <string name="team_name">குழு AETHERX</string>
+    <string name="sih_problem_statement">SIH26076</string>
+
+    <!-- Splash & Welcome -->
+    <string name="welcome_headline">உங்களைப் புரிந்துகொள்ளும் வானிலை செயலி.</string>
+    <string name="welcome_subtitle">வானிலை முன்னறிவிப்புகளை உங்கள் அன்றாட முடிவுகளாக மாற்றுங்கள்.</string>
+    <string name="btn_get_started">தொடங்குங்கள்</string>
+    <string name="btn_sign_in">உள்நுழைக</string>
+    <string name="btn_skip">தவிர்</string>
+    <string name="btn_next">அடுத்து</string>
+    <string name="btn_back">பின்செல்</string>
+    <string name="btn_finish">முடிக்கவும்</string>
+
+    <!-- Auth -->
+    <string name="auth_login_title">மீண்டும் வருக</string>
+    <string name="auth_login_subtitle">உங்கள் தனிப்பயனாக்கப்பட்ட வானிலை அமைப்பில் உள்நுழையவும்</string>
+    <string name="auth_register_title">கணக்கை உருவாக்கவும்</string>
+    <string name="auth_register_subtitle">உங்கள் சுயவிவரத்தை அமைக்கவும்</string>
+    <string name="auth_forgot_title">கடவுச்சொல்லை மீட்டமை</string>
+    <string name="auth_forgot_subtitle">உங்கள் மின்னஞ்சல் முகவரியை உள்ளிடவும்</string>
+    <string name="field_full_name">முழு பெயர்</string>
+    <string name="field_email">மின்னஞ்சல் முகவரி</string>
+    <string name="field_phone">தொலைபேசி எண் (விருப்பம்)</string>
+    <string name="field_password">கடவுச்சொல்</string>
+    <string name="field_confirm_password">கடவுச்சொல்லை உறுதிப்படுத்துக</string>
+    <string name="field_remember_me">என்னை நினைவில் கொள்</string>
+    <string name="field_forgot_password">கடவுச்சொல் மறந்ததா?</string>
+    <string name="field_terms">விதிமுறைகள் மற்றும் தனியுரிமைக் கொள்கையை ஏற்கிறேன்</string>
+    <string name="btn_create_account">கணக்கு தொடங்கு</string>
+    <string name="btn_send_reset_link">மீட்டமைப்பு இணைப்பை அனுப்பு</string>
+    <string name="auth_dont_have_account">கணக்கு இல்லையா? பதிவு செய்க</string>
+    <string name="auth_already_have_account">ஏற்கனவே கணக்கு உள்ளதா? உள்நுழைக</string>
+    <string name="auth_guest_mode">டெமோ முறையில் தொடரவும்</string>
+    <string name="pwd_strength_weak">எளிய கடவுச்சொல்</string>
+    <string name="pwd_strength_medium">நடுத்தர வலிமை</string>
+    <string name="pwd_strength_strong">வலுவான கடவுச்சொல்</string>
+
+    <!-- Personas -->
+    <string name="persona_student">மாணவர் 🎓</string>
+    <string name="persona_student_desc">கல்லூரி பயணம், மழை நேரம் மற்றும் வளாக நிகழ்வுகளுக்கு முன்னுரிமை அளிக்கிறது.</string>
+    <string name="persona_farmer">விவசாயி 🌾</string>
+    <string name="persona_farmer_desc">மழைப்பொழிவு, ஈரப்பதம், பூச்சிக்கொல்லி தெளிப்புக்கான காற்று வேகம் ஆகியவற்றிற்கு முன்னுரிமை.</string>
+    <string name="persona_traveller">பயணி ✈️</string>
+    <string name="persona_traveller_desc">நெடுஞ்சாலை பார்வை திறன், காற்று மற்றும் சேருமிட வானிலைக்கு முன்னுரிமை.</string>
+    <string name="persona_fitness">உடற்பயிற்சி 🏃</string>
+    <string name="persona_fitness_desc">ஓடுதல், உடற்பயிற்சி நேரம், காற்றின் தரம் மற்றும் வெப்பக் குறியீடு.</string>
+    <string name="persona_worker">வெளிக்கள பணியாளர் 🦺</string>
+    <string name="persona_worker_desc">கடும் வெப்பம், புற ஊதா கதிர் பாதுகாப்பு மற்றும் மின்னல் எச்சரிக்கைகள்.</string>
+    <string name="persona_general">பொதுவானது 🌤</string>
+    <string name="persona_general_desc">அன்றாட வானிலை மற்றும் குடை எச்சரிக்கைகள்.</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">முகப்பு</string>
+    <string name="nav_forecast">முன்னறிவிப்பு</string>
+    <string name="nav_insights">AI பரிந்துரைகள்</string>
+    <string name="nav_map">ரேடார் வரைபடம்</string>
+    <string name="nav_travel">ஸ்மார்ட் பயணம்</string>
+    <string name="nav_alerts">எச்சரிக்கைகள்</string>
+    <string name="nav_profile">சுயவிவரம்</string>
+    <string name="nav_settings">அமைப்புகள்</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_greeting_morning">காலை வணக்கம்</string>
+    <string name="dashboard_greeting_afternoon">மதிய வணக்கம்</string>
+    <string name="dashboard_greeting_evening">மாலை வணக்கம்</string>
+    <string name="dashboard_greeting_night">இரவு வணக்கம்</string>
+    <string name="dashboard_subheading">இன்று உங்களுக்கு முக்கியமான வானிலை தகவல்.</string>
+    <string name="hero_feels_like">உணரப்படும் வெப்பநிலை %1$s°C</string>
+    <string name="hero_humidity">ஈரப்பதம்</string>
+    <string name="hero_wind">காற்று</string>
+    <string name="hero_visibility">பார்வைத் திறன்</string>
+    <string name="hero_uv">UV குறியீடு</string>
+    <string name="hero_pressure">அழுத்தம்</string>
+    <string name="hero_sunrise">சூரிய உதயம்</string>
+    <string name="hero_sunset">சூரிய அஸ்தமனம்</string>
+    <string name="important_for_you">உங்களுக்கு முக்கியமானது</string>
+    <string name="ai_recommendation">AI பரிந்துரை</string>
+    <string name="cta_why_this_matters">இதை நான் ஏன் பார்க்கிறேன்? →</string>
+    <string name="commute_intelligence_title">பயண நுண்ணறிவு</string>
+    <string name="commute_intelligence_desc">%1$s இலிருந்து %2$s வரையான %3$s பயணத்திற்கான ஆய்வு.</string>
+
+    <!-- Explainability -->
+    <string name="explain_modal_title">காரணி விவரங்கள்</string>
+    <string name="explain_modal_subtitle">MausamIQ இந்த பரிந்துரையை எவ்வாறு கணக்கிட்டது</string>
+    <string name="explain_factor_rain_prob">மழை சாத்தியக்கூறு</string>
+    <string name="explain_factor_window">எதிர்பார்க்கப்படும் நேரம்</string>
+    <string name="explain_factor_commute">உங்கள் அட்டவணை</string>
+    <string name="explain_factor_dest">சேருமிடம்</string>
+    <string name="explain_factor_confidence">நம்பகத்தன்மை</string>
+    <string name="explain_probability_note" formatted="false">குறிப்பு: 70% மழை சாத்தியக்கூறு என்பது உங்கள் பகுதியில் மழை பெய்வதற்கான புள்ளிவிவர நிகழ்தகவு ஆகும்.</string>
+
+    <!-- Forecast -->
+    <string name="tab_hourly">மணிநேரம்</string>
+    <string name="tab_daily">7-நாள் முன்னறிவிப்பு</string>
+    <string name="forecast_precip_chance">மழை வாய்ப்பு</string>
+
+    <!-- Map -->
+    <string name="map_title">வானிலை ரேடார் &amp; அடுக்குகள்</string>
+    <string name="layer_temp">வெப்பநிலை</string>
+    <string name="layer_rain">மழை ரேடார்</string>
+    <string name="layer_wind">காற்று ஓட்டம்</string>
+    <string name="layer_alerts">எச்சரிக்கைகள்</string>
+
+    <!-- Smart Travel -->
+    <string name="travel_title">ஸ்மார்ட் வழித்தட வானிலை திட்டம்</string>
+    <string name="travel_from">புறப்படும் இடம்</string>
+    <string name="travel_to">சேருமிடம்</string>
+    <string name="travel_time">புறப்படும் நேரம்</string>
+    <string name="travel_calculate">பாதை வானிலையை பகுப்பாய்வு செய்க</string>
+    <string name="travel_advisory">பயண ஆலோசனை</string>
+    <string name="travel_window_recommended">பரிந்துரைக்கப்பட்ட நேரம்</string>
+
+    <!-- Alerts -->
+    <string name="alerts_title">வானிலை எச்சரிக்கைகள்</string>
+    <string name="alert_severity_critical">முக்கியமானது</string>
+    <string name="alert_severity_high">அதிகம்</string>
+    <string name="alert_severity_moderate">மிதமானது</string>
+    <string name="alert_severity_info">தகவல்</string>
+    <string name="alert_mark_read">படித்ததாக குறிக்கவும்</string>
+    <string name="alert_no_active">எந்த தீவிர எச்சரிக்கைகளும் இல்லை.</string>
+
+    <!-- Settings -->
+    <string name="settings_title">அமைப்புகள்</string>
+    <string name="settings_theme">தோற்றம்</string>
+    <string name="settings_language">மொழி / Language</string>
+    <string name="settings_notifications">அறிவிப்புகள்</string>
+    <string name="settings_demo_mode">SIH டெமோ பயன்முறை</string>
+    <string name="settings_demo_mode_desc">நேரடி வானிலை மற்றும் SIH நடுவர் காட்சிகளுக்கு இடையில் மாற்றவும்.</string>
+    <string name="settings_about">செயலி பற்றி</string>
+    <string name="settings_logout">வெளியேறுக</string>
+
+    <!-- Offline -->
+    <string name="offline_badge">ஆஃப்லைன் முறை • கடைசியாக புதுப்பிக்கப்பட்டது %1$s</string>
+    <string name="error_network">இணைய இணைப்பு இல்லை. சேமிக்கப்பட்ட தகவல்கள் காட்டப்படுகின்றன.</string>
+    <string name="btn_retry">மீண்டும் முயற்சி செய்க</string>
+    <string name="demo_mode_active_banner">⚡ டெமோ முறை செயல்பாட்டில் உள்ளது</string>
+</resources>
